@@ -12,6 +12,9 @@ public class MyGitClass {
 		System.out.println("değişiklik yaptım");
 		System.out.println("10 .satır Github");
 		System.out.println("11. satır Github");
+		System.out.println("15. sat�rcomputer");
+		
+		
 
 		
 	}
