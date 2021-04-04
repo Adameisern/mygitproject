@@ -3,21 +3,22 @@ public class MyGitClass {
 	public static void main(String[] args) {
 		System.out.println("Version 1");
 		System.out.println("my second commit");
-		System.out.println("my third commit --- Github YENİ değişiklik");
+		System.out.println("my third commit --- Github YENÄ° deÄŸiÅŸiklik");
 		System.out.println("my fourth verison");
 		System.out.println("uzak sunucudaki kodum"); // github.com daki yeni kodum
 
 
-		System.out.println("9. sat�r  computer");
+		System.out.println("9. satýr  computer");
 
-		System.out.println("değişiklik yaptım");
+		System.out.println("deÄŸiÅŸiklik yaptÄ±m");
 
-		System.out.println("9. değişiklik yaptım");
+		System.out.println("9. deÄŸiÅŸiklik yaptÄ±m");
 
-		System.out.println("10 .satır Github");
-		System.out.println("11. satır Github");
-		System.out.println("15. sat�rcomputer");
-		System.out.println("16.sat�r computer");
+		System.out.println("10 .satÄ±r Github");
+		System.out.println("11. satÄ±r Github");
+		System.out.println("15. satýrcomputer");
+		System.out.println("16.satýr computer");
+		System.out.println("21.satir github");
 		
 		System.out.println("22. sat�r computergit");
 		
