@@ -13,6 +13,7 @@ public class MyGitClass {
 		System.out.println("10 .satÄ±r Github");
 		System.out.println("11. satÄ±r Github");
 		System.out.println("15. satırcomputer");
+		System.out.println("16.satır computer");
 		
 		
 
