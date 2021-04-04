@@ -19,6 +19,8 @@ public class MyGitClass {
 		System.out.println("15. satýrcomputer");
 		System.out.println("16.satýr computer");
 		
+		System.out.println("22. satýr computer");
+		
 		
 
 		
