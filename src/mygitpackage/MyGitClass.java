@@ -8,6 +8,7 @@ public class MyGitClass {
 		System.out.println("uzak sunucudaki kodum"); // github.com daki yeni kodum
 		System.out.println("değişiklik yaptım");
 		System.out.println("2 .değişiklik yaptım");
+		System.out.println("11. satır değişiklik yaptım");
 		
 	}
 }
