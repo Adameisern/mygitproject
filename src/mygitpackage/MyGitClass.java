@@ -19,7 +19,7 @@ public class MyGitClass {
 		System.out.println("15. satırcomputer");
 		System.out.println("16.satır computer");
 		
-		System.out.println("22. satır computer");
+		System.out.println("22. satır computergit");
 		
 		
 
