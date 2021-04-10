@@ -25,9 +25,11 @@ public class MyGitClass {
 		System.out.println("6. version Github" );
 		System.out.println("7. version Github" );
 		
+		System.out.println("8. version Github" );		
 		
 		
-		System.out.println("7. version 28. satýr - local");
+		
+		System.out.println("7. version 28. satï¿½r - local");
 		
 	}
 }
