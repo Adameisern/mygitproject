@@ -25,7 +25,9 @@ public class MyGitClass {
 		System.out.println("6. version Github Abdu" );
 		
 		
-
+		
+		
+		System.out.println("9. version Github Abdu 30. satır" );
 		
 	}
 }
