@@ -23,6 +23,7 @@ public class MyGitClass {
 		System.out.println("22. sat�r computergit");
 		System.out.println("5. version");
 		System.out.println("6. version Github" );
+		System.out.println("7. version Github" );
 		
 		
 
