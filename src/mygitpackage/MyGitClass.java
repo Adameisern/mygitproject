@@ -24,7 +24,8 @@ public class MyGitClass {
 		System.out.println("5. version");
 		
 		
-
+		
+		System.out.println("7. version 28. satýr - local");
 		
 	}
 }
