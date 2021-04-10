@@ -21,6 +21,7 @@ public class MyGitClass {
 		System.out.println("21.satir github");
 		
 		System.out.println("22. satýr computergit");
+		System.out.println("5. version");
 		
 		
 
