@@ -20,8 +20,10 @@ public class MyGitClass {
 		System.out.println("16.satÃ½r computer");
 		System.out.println("21.satir github");
 		
-		System.out.println("22. satýr computergit");
+		System.out.println("22. satï¿½r computergit");
 		System.out.println("5. version");
+		System.out.println("6. version Github" );
+		System.out.println("7. version Github" );
 		
 		
 		
