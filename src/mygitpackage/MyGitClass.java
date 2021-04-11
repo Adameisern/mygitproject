@@ -23,11 +23,16 @@ public class MyGitClass {
 		System.out.println("22. sat�r computergit");
 		System.out.println("5. version");
 		System.out.println("6. version Github Abdu" );
+		System.out.println("6. version Github" );
+		System.out.println("7. version Github" );
 		
+		System.out.println("8. version Github" );		
 		
 		
 		
 		System.out.println("9. version Github Abdu 30. satır" );
+		System.out.println("7. version 28. sat�r - local");
+		System.out.println("33. satir change - git hub");
 		
 	}
 }
