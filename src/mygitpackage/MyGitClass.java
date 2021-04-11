@@ -30,6 +30,7 @@ public class MyGitClass {
 		
 		
 		System.out.println("7. version 28. sat�r - local");
+		System.out.println("33. satir change - git hub");
 		
 	}
 }
